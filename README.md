@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Ping Pong Game
 
 ![Ping pong game](https://user-images.githubusercontent.com/44787115/124994528-9ae4c480-e063-11eb-8436-27991f8b9500.gif)
 
