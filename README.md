@@ -9,7 +9,11 @@
 
 ## Description
 
-This is a Single player Game which keeps track of the Score on how many times the ball has hit the rod and ass soon as the ball misses the rod, the game stops and the score is displayed in the alert message as shown in the demo above.
+1. There are be 2 rods at the top and bottom of the screen.
+2. Both rods are be controlled with the same keys. In other words, they are moving together.
+3. When the game starts, an alert is shown about the highest score and the player who scored it. If there is no such record, message 'this is your first time' is displayed.
+4. If the score becomes highest, then store the name and max-score in local storage.
+5. After every round, when one wins an alert will be displayed showing the winning player and his score.
 
 ### Technologies
 
